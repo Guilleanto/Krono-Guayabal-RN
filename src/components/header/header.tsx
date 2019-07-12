@@ -13,7 +13,7 @@ export default class HeaderTest extends React.Component<any,any>{
     render(){
         return (
             <Header containerStyle={styles.container} >
-                <Text>HOLA</Text>
+                <Text>Guayabal 4.0.0</Text>
                 <SearchBar
                     containerStyle = {{backgroundColor: 'transparent',borderTopColor: 'transparent', width: '100%', borderBottomColor: 'transparent'}}
                     placeholder="Buscar..."

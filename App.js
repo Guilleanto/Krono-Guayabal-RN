@@ -23,7 +23,7 @@ import {
   DebugInstructions,
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
-import HeaderTest from './components/header/header'
+import HeaderTest from './src/components/header/header'
 const App = () => {
   return (
     <Fragment>
