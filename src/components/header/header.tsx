@@ -28,7 +28,7 @@ export default class HeaderTest extends React.Component<any, any> {
           placeholder="Buscar producto"
           placeholderTextColor={'white'}
           
-          onChangeText={() => console.log("")}
+          onChangeText={() => console.log("hola")}
           inputStyle={{fontSize: 13}}
           inputContainerStyle={{ borderRadius: 30, borderWidth: 1, borderBottomWidth: 1, borderColor: 'white', backgroundColor: 'transparent' }}
         />
